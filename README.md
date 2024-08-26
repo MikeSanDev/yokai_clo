@@ -1,2 +1,2 @@
 ## Yokai.Clo
-### A clothing site
+### A (fake) e-commerce store with an admin dashboard 
